@@ -1,0 +1,90 @@
+    body {
+        background:rgb(58, 58, 58);
+        color: rgb(121, 81, 81);
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+  
+    header {
+        background: black;
+        background-image: url(images/homological.jpg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        height: 400px;
+        padding: 20px;
+        text-align: left;
+    }
+
+    header a {
+        color: white;
+        text-decoration: none;
+        text-transform: uppercase;
+        margin-top: 40px;
+    }    
+
+    header .logo a{
+        background-size: 300px;
+        background-repeat: no-repeat;
+        display: inline-block;
+        position: relative;
+    }
+
+    section {
+        background: whitesmoke;
+        color: grey;
+        padding: 20px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .feature-box{
+        display: flex;
+    }
+  
+    .feature-box div{
+        width: 100px;
+        margin: 1px;
+    }
+
+    .feature-box.sales div {
+        background: pink;
+    }
+  
+    .feature-box.closeouts div {
+        background: blue;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    li:hover {
+        background-color: grey;
+    }
+
+    div {
+        background: red;
+        width: 100px;
+        margin: auto;
+    }
+
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+
+    li {
+        display: inline-block;
+        margin-right: 20px;
+    }
+
+    footer{
+        background: black;
+        padding: 10px 20px;
+    }
