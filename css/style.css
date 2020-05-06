@@ -1,0 +1,96 @@
+.languages {
+    width: 50%;
+    margin: 0 auto;
+    height: 300px;
+}
+
+.python {
+    border-radius: 20%;;
+    background-color: whitesmoke;
+    display: inline-block; 
+    width: 30%;   
+    height: 300px;
+    text-align: center;
+    margin-bottom: -10px;
+    margin-left: 5px;
+}
+
+.python-logo{
+    width: 100px;
+    height: 100px;
+}
+
+.python-span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal; 
+}
+
+.macaulay {
+    border-radius: 20%;;
+    background-color: whitesmoke;
+    display: inline-block; 
+    width: 30%;   
+    height: 300px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.macaulay-logo {
+    border-radius: 15%;
+    width: 150px;
+    height: 100px;
+}
+
+.macaulay-span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal; 
+}
+
+
+
+.sage {
+    border-radius: 20%;;
+    background-color: whitesmoke;
+    display: inline-block; 
+    margin-left: 10px;
+    width: 30%;   
+    height: 300px;
+    text-align: center;
+}
+
+.sage-logo {
+    border-radius: 15%;
+    width: 150px;
+    height: 100px;
+}
+
+.sage-span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal; 
+}
+
+.js {
+    border-radius: 20%;;
+    background-color: whitesmoke;
+    display: inline-block; 
+    margin-left: 10px;
+    margin-top: 5px;
+    width: 30%;   
+    height: 300px;
+    text-align: center;
+}
+
+.js-logo {
+    border-radius: 15%;
+    width: 100px;
+    height: 100px;
+}
+
+.js-span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal; 
+}
