@@ -94,3 +94,7 @@
     vertical-align: middle;
     line-height: normal; 
 }
+
+.python ul, .macaulay ul, .sage ul, .js ul {
+    text-align: left;
+}
