@@ -94,7 +94,8 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
 
 .card-img-top {
 	width: 100%;
-	height: 40vh
+	height: 40vh;
+	border-radius: 15%
 }
 
 
