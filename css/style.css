@@ -99,10 +99,14 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
 }
 
 .card-title, .card-text {
-text-transform: uppercase; 
-text-align: center; 
-font-family: 'Montserrat', Helvetica, sans-serif; 
+	text-transform: uppercase; 
+	text-align: center; 
+	font-family: 'Montserrat', Helvetica, sans-serif; 
+}
 
+.card {
+	margin-left: 1em;
+	margin-right: 1em;
 }
 
 
