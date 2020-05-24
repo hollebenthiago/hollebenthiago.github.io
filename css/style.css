@@ -116,10 +116,6 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
 	font-size: 12px;
 }
 
-.need-to-center {
-	margin: 0 auto;
-}
-
 .need-to-justify {
 	text-align: justify;
 }
