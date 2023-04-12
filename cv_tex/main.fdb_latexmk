@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1674771422 "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.tex" "main.pdf" "main" 1674771422
+["pdflatex"] 1681276277 "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.tex" "main.pdf" "main" 1681276278
   "/etc/texmf/web2c/texmf.cnf" 1665353125 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.tex" 1674771421 6141 b0a3d316c20e2bcce96eef6d00fecc19 ""
+  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.tex" 1681276277 6292 f23591d1b448e0a2c26b17795044af08 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -73,9 +73,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1665353182 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1665353204 2799892 f244e8376c44f71baa43ec787e2f85fb ""
-  "main.aux" 1674771422 686 4ce905362b6645b598ea182482e9aeed "pdflatex"
-  "main.out" 1674771422 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1674771421 6141 b0a3d316c20e2bcce96eef6d00fecc19 ""
+  "main.aux" 1681276278 686 4ce905362b6645b598ea182482e9aeed "pdflatex"
+  "main.out" 1681276278 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1681276277 6292 f23591d1b448e0a2c26b17795044af08 ""
   "resume.cls" 1664834642 4799 dc232d25c3ab0eff52077d212b0c7716 ""
   (generated)
   "main.aux"
