@@ -120,3 +120,26 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
 .need-to-justify {
 	text-align: justify;
 }
+
+
+details>summary 
+  summary::-webkit-details-marker {
+	display: none
+  }
+  
+  summary::before {
+	content: ' ►';
+  }
+  details[open] summary:before {
+	content: " ▼";
+  }
+
+.year h1 {
+	text-align: center;
+	border-bottom: 1px solid #E5E5E5;
+	padding-bottom: 5px;	
+}
+
+.paper-list ul {
+	list-style: none;
+}
