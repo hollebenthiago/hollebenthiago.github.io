@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1719776350 "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.tex" "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.pdf" "main" 1719776353
+["pdflatex"] 1721768943 "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.tex" "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.pdf" "main" 1721768945
   "/etc/texmf/web2c/texmf.cnf" 1680369426 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.aux" 1719776352 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.tex" 1719776350 15555 30ca0ca9d563e8c66aceac7ba03a795d ""
+  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.aux" 1721768945 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.tex" 1721768941 15887 8d283d4fe9ccd3bc385bb54db16e7488 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -70,14 +70,14 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1680375895 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1713818389 8261142 0731f12d50fbf6819b84a3e2e8a9b8b9 ""
-  "main.aux" 1719776352 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
-  "main.out" 1719776352 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1719776350 15555 30ca0ca9d563e8c66aceac7ba03a795d ""
+  "main.aux" 1721768945 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
+  "main.out" 1721768945 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1721768941 15887 8d283d4fe9ccd3bc385bb54db16e7488 ""
   "resume.cls" 1680373444 4799 dc232d25c3ab0eff52077d212b0c7716 ""
   (generated)
-  "main.log"
+  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.pdf"
   "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.log"
+  "main.log"
+  "main.out"
   "main.pdf"
   "main.aux"
-  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/main.pdf"
-  "main.out"
