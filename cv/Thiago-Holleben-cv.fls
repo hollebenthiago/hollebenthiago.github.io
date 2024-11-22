@@ -1,9 +1,9 @@
-PWD /mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex
+PWD /mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv_tex/Thiago-Holleben-cv.tex
+INPUT /mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.tex
 OUTPUT Thiago-Holleben-cv.log
 INPUT ./resume.cls
 INPUT ./resume.cls
