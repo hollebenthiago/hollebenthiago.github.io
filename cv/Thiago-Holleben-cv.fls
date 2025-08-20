@@ -119,6 +119,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.aux
 INPUT /mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.out
 INPUT /mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.out

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.4.22)  26 JUL 2025 17:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.4.22)  19 AUG 2025 16:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -298,54 +298,60 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 37--37
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--56
+Underfull \hbox (badness 10000) in paragraph at lines 43--58
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--56
+Underfull \hbox (badness 10000) in paragraph at lines 43--58
 
  []
 
 
-Overfull \hbox (18.30986pt too wide) in paragraph at lines 118--119
-[]\OT1/cmr/m/it/10.95 Coinvariant stresses, Lef-schetz prop-er-ties and ran-dom com-plexes\OT1/cmr/m/n/10.95 . (2025) (Sub-mit-ted) [][]arxiv:2501.12108[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 43--58
+
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (6.46918pt too wide) in paragraph at lines 123--124
-\OT1/cmr/m/n/10.95 Mad-duwe Hewalage, Hasan Mah-mood, Dharm Veer, Kyle Wang and Scott Wes-ley. [][]arXiv:2505.08580[][] 
+Overfull \hbox (1.28314pt too wide) in paragraph at lines 155--185
+\OT1/cmr/bx/n/10.95 Teaching as-sis-tant: Cal-cu-lus for the Life and So-cial Sci-ences \OT1/cmr/m/n/10.95 - Fall 2023/2024, Win-ter 2022/2023 
  []
 
-[2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 198--214
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--185
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 292.
-[4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 292.
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 288--300
+
+ []
+
+[3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 365.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 365.
  (/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 292.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 292.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 365.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 365.
 Package rerunfilecheck Info: File `Thiago-Holleben-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 6699 strings out of 481239
- 101268 string characters out of 5920377
- 382800 words of memory out of 5000000
- 21823 multiletter control sequences out of 15000+600000
- 536337 words of font info for 37 fonts, out of 8000000 for 9000
+ 6657 strings out of 481239
+ 100980 string characters out of 5920377
+ 381800 words of memory out of 5000000
+ 21822 multiletter control sequences out of 15000+600000
+ 536644 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,37p,948b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,6n,37p,948b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on /mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.pdf (4 pages, 103910 bytes).
+Output written on /mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.pdf (4 pages, 105770 bytes).
 PDF statistics:
- 132 PDF objects out of 1000 (max. 8388607)
- 118 compressed objects within 2 object streams
- 56 named destinations out of 1000 (max. 500000)
+ 80 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
