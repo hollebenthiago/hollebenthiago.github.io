@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1756153160 "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.tex" "Thiago-Holleben-cv.pdf" "Thiago-Holleben-cv" 1756153161
+["pdflatex"] 1760498567 "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.tex" "Thiago-Holleben-cv.pdf" "Thiago-Holleben-cv" 1760498569
   "/etc/texmf/web2c/texmf.cnf" 1665353125 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.tex" 1756153159 28204 a2c769d2510942a2afb620fd192ab6af ""
+  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.tex" 1760498567 28938 5319af9ceeb6430d3111a2dd9c5f00df ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -74,9 +74,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1665353182 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1665353204 2799892 f244e8376c44f71baa43ec787e2f85fb ""
-  "Thiago-Holleben-cv.aux" 1756153161 686 1021e496efe4cd3ab536fd12e6d22f30 "pdflatex"
-  "Thiago-Holleben-cv.out" 1756153161 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Thiago-Holleben-cv.tex" 1756153159 28204 a2c769d2510942a2afb620fd192ab6af ""
+  "Thiago-Holleben-cv.aux" 1760498569 686 1021e496efe4cd3ab536fd12e6d22f30 "pdflatex"
+  "Thiago-Holleben-cv.out" 1760498568 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Thiago-Holleben-cv.tex" 1760498567 28938 5319af9ceeb6430d3111a2dd9c5f00df ""
   "resume.cls" 1696258287 4799 dc232d25c3ab0eff52077d212b0c7716 ""
   (generated)
   "Thiago-Holleben-cv.aux"
