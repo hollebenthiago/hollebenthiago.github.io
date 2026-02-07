@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1770130826 "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.tex" "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.pdf" "Thiago-Holleben-cv" 1770130828
+["pdflatex"] 1770165904 "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.tex" "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.pdf" "Thiago-Holleben-cv" 1770165905
   "/etc/texmf/web2c/texmf.cnf" 1680369426 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.aux" 1770130828 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.tex" 1770130822 29560 52f788681c8b2454b238bacaa56338e5 ""
+  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.aux" 1770165905 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.tex" 1770165904 29791 7db5d2ed98df45ab43faf7a9d1358a3c ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -70,14 +70,14 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1680375895 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1713818389 8261142 0731f12d50fbf6819b84a3e2e8a9b8b9 ""
-  "Thiago-Holleben-cv.aux" 1770130828 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
-  "Thiago-Holleben-cv.out" 1770130828 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Thiago-Holleben-cv.tex" 1770130822 29560 52f788681c8b2454b238bacaa56338e5 ""
+  "Thiago-Holleben-cv.aux" 1770165905 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
+  "Thiago-Holleben-cv.out" 1770165905 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Thiago-Holleben-cv.tex" 1770165904 29791 7db5d2ed98df45ab43faf7a9d1358a3c ""
   "resume.cls" 1730383868 4799 dc232d25c3ab0eff52077d212b0c7716 ""
   (generated)
-  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.pdf"
-  "Thiago-Holleben-cv.pdf"
   "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.log"
-  "Thiago-Holleben-cv.out"
-  "Thiago-Holleben-cv.aux"
   "Thiago-Holleben-cv.log"
+  "Thiago-Holleben-cv.pdf"
+  "Thiago-Holleben-cv.out"
+  "/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.pdf"
+  "Thiago-Holleben-cv.aux"
