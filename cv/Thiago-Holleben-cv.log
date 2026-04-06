@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.10.9)  5 APR 2026 12:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.10.9)  6 APR 2026 00:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -307,39 +307,39 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 37--37
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--59
+Underfull \hbox (badness 10000) in paragraph at lines 43--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--59
+Underfull \hbox (badness 10000) in paragraph at lines 43--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--59
+Underfull \hbox (badness 10000) in paragraph at lines 43--60
 
  []
 
 
-Overfull \hbox (39.10667pt too wide) in paragraph at lines 93--94
+Overfull \hbox (39.10667pt too wide) in paragraph at lines 94--95
 []\OT1/cmr/m/it/10.95 Spheres and balls as in-de-pen-dence com-plexes\OT1/cmr/m/n/10.95 . Illi-nois Jour-nal of Math-e-mat-ics, to ap-pear. [][]arXiv:2503.18490[][].
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Overfull \hbox (1.28314pt too wide) in paragraph at lines 264--293
+Overfull \hbox (1.28314pt too wide) in paragraph at lines 267--296
 \OT1/cmr/bx/n/10.95 Teaching as-sis-tant: Cal-cu-lus for the Life and So-cial Sci-ences \OT1/cmr/m/n/10.95 - Fall 2023/2024, Win-ter 2022/2023 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--293
+Underfull \hbox (badness 10000) in paragraph at lines 267--296
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 296--313
+Underfull \hbox (badness 10000) in paragraph at lines 299--316
 
  []
 
@@ -354,9 +354,9 @@ Here is how much of TeX's memory you used:
  27780 multiletter control sequences out of 15000+600000
  473565 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,5n,76p,654b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,5n,76p,654b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Thiago-Holleben-cv.pdf (4 pages, 113956 bytes).
+Output written on Thiago-Holleben-cv.pdf (4 pages, 114069 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  79 compressed objects within 1 object stream
