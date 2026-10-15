@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.4.22)  4 OCT 2026 22:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.4.22)  15 OCT 2026 16:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -314,27 +314,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--73
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
-Overfull \hbox (1.28314pt too wide) in paragraph at lines 285--314
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+Overfull \hbox (1.28314pt too wide) in paragraph at lines 288--317
 \OT1/cmr/bx/n/10.95 Teaching as-sis-tant: Cal-cu-lus for the Life and So-cial Sci-ences \OT1/cmr/m/n/10.95 - Fall 2023/2024, Win-ter 2022/2023 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--314
+Underfull \hbox (badness 10000) in paragraph at lines 288--317
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--334
+Underfull \hbox (badness 10000) in paragraph at lines 320--337
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 400.
-[5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 400.
+[4]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 403.
+ [5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 403.
  (/mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 400.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 400.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 403.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 403.
 Package rerunfilecheck Info: File `Thiago-Holleben-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -347,7 +348,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  41i,5n,37p,948b,486s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on /mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.pdf (5 pages, 110502 bytes).
+Output written on /mnt/c/Users/thaig/Documents/Github/hollebenthiago.github.io/cv/Thiago-Holleben-cv.pdf (5 pages, 111179 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  92 compressed objects within 1 object stream
